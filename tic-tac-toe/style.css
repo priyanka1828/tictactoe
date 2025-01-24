@@ -45,7 +45,7 @@ p{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    width:60vh;
+    width:80vh;
     margin: 70px auto;
 }
 .boxes{
